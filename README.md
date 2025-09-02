@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-System Development Student 
+Developer
 
 - 🔭 I’m currently working on frontend projects
 - 🌱 I’m currently learning HTML|CSS|JS
