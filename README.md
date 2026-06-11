@@ -1,11 +1,4 @@
 
-
-Desenvolvedor Frontend apaixonado por criar soluções e aprender novas tecnologias.
-
-
-
-### 🛠️ Tecnologias e Linguagens
-
 <p align="left">
   <!-- Apague as que você não usa e mantenha as suas -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JS" />
